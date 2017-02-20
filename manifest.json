@@ -1,6 +1,6 @@
 {
   "name": "Down the Donald",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 2,
   "description": "Auto-downvote all posts and comments on https://www.reddit.com/r/The_Donald",
   "icons": {
