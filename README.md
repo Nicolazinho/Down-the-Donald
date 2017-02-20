@@ -5,4 +5,4 @@ Chrome extension to auto-downvote all posts and comments on <a href='https://www
 <p>Screenshots:<p>
 <img src='https://github.com/Nicolazinho/Down-the-Donald/blob/master/screenshot1.png'><p>
 <img src='https://github.com/Nicolazinho/Down-the-Donald/blob/master/screenshot2.png'><p>
-A project by Nicolas Ritz
+<p>A project by Nicolas Ritz
